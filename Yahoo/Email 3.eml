@@ -100,26 +100,26 @@ HtmlBody: <html><head></head><body><div class="yahoo-style-wrap"
  style="font-family:Helvetica Neue, Helvetica, Arial,
  sans-serif;font-size:13px;"><div dir="ltr" data-setdir="false">Factura 3 -
  Invoice 3</div></div></body></html>
-Content-Type: multipart/mixed; boundary="=-rgym5vsScx6hQsnxxl97jA=="
+Content-Type: multipart/mixed; boundary="=-ckylsG9/8eJppS2Ah40YQA=="
 
---=-rgym5vsScx6hQsnxxl97jA==
-Content-Type: multipart/alternative; boundary="=-nKWXHxu4wVAq+kUO71/mlg=="
+--=-ckylsG9/8eJppS2Ah40YQA==
+Content-Type: multipart/alternative; boundary="=-Uya7AurpD3Yql+W3q2tqCg=="
 
---=-nKWXHxu4wVAq+kUO71/mlg==
+--=-Uya7AurpD3Yql+W3q2tqCg==
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 7bit
-Content-Id: <87bc35c3-b780-4eac-812e-c6659fa48386>
+Content-Id: <96d87350-f950-440f-b805-b4eceee89daa>
 
 Factura 3 - Invoice 3
---=-nKWXHxu4wVAq+kUO71/mlg==
+--=-Uya7AurpD3Yql+W3q2tqCg==
 Content-Type: text/html; charset=UTF-8
 Content-Transfer-Encoding: 7bit
-Content-Id: <f9cb2328-ba07-4041-9de8-b40e76c3d4d7>
+Content-Id: <4999cb71-e0a5-4078-aafa-98ac686e93e3>
 
 <html><head></head><body><div class="yahoo-style-wrap" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:13px;"><div dir="ltr" data-setdir="false">Factura 3 - Invoice 3</div></div></body></html>
---=-nKWXHxu4wVAq+kUO71/mlg==--
+--=-Uya7AurpD3Yql+W3q2tqCg==--
 
---=-rgym5vsScx6hQsnxxl97jA==
+--=-ckylsG9/8eJppS2Ah40YQA==
 Content-Type: application/pdf; name="Invoice 3.pdf"
 Content-Disposition: attachment; filename="Invoice 3.pdf"
 Content-Transfer-Encoding: base64
@@ -673,4 +673,4 @@ RDI2MjI4MEMzNDhCMjQ4RjBBQTk0N0NCQUIyPjxDQ0M0NUQyNjIyODBDMzQ4QjI0OEYwQUE5
 NDdDQkFCMj5dIC9QcmV2IDIzNzM1L1hSZWZTdG0gMjMwMTE+Pg0Kc3RhcnR4cmVmDQoyOTMx
 Mw0KJSVFT0Y=
 
---=-rgym5vsScx6hQsnxxl97jA==--
+--=-ckylsG9/8eJppS2Ah40YQA==--

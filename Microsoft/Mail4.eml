@@ -106,15 +106,15 @@ HtmlBody: <html xmlns:o="urn:schemas-microsoft-com:office:office"
  class="MsoNormal"><o:p>&nbsp;</o:p></p><p class="MsoNormal">Trimis din <a
  href="https://go.microsoft.com/fwlink/?LinkId=550986">Mail</a> pentru
  Windows</p><p class="MsoNormal"><o:p>&nbsp;</o:p></p></div></body></html>
-Content-Type: multipart/mixed; boundary="=-52OZt7ZEPmUVec1+KS54hA=="
+Content-Type: multipart/mixed; boundary="=-aZkqt6BdFoepFtrOP6GTdQ=="
 
---=-52OZt7ZEPmUVec1+KS54hA==
-Content-Type: multipart/alternative; boundary="=-KxSMEgWe1YpTJLOvScy2Jg=="
+--=-aZkqt6BdFoepFtrOP6GTdQ==
+Content-Type: multipart/alternative; boundary="=-YF7vo1WRrqsSMYsd5pLuVg=="
 
---=-KxSMEgWe1YpTJLOvScy2Jg==
+--=-YF7vo1WRrqsSMYsd5pLuVg==
 Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: quoted-printable
-Content-Id: <c770460e-f852-4c15-b45e-c15596b8c4e1>
+Content-Id: <d5133707-8236-47cf-9daf-5dd27c1daba6>
 
 Factura4
 
@@ -122,10 +122,10 @@ Trimis din Mail<https://go.microsoft.com/fwlink/?LinkId=3D550986> pent=
 ru Windows
 
 
---=-KxSMEgWe1YpTJLOvScy2Jg==
+--=-YF7vo1WRrqsSMYsd5pLuVg==
 Content-Type: text/html; charset=us-ascii
 Content-Transfer-Encoding: quoted-printable
-Content-Id: <42c38fdb-e6eb-4cd3-a382-44da1a5a5699>
+Content-Id: <531c9210-444b-40a0-8a0c-d410e01eefed>
 
 <html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"u=
 rn:schemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.micros=
@@ -175,13 +175,13 @@ Mail</a> pentru Windows</p>
 </body>
 </html>
 
---=-KxSMEgWe1YpTJLOvScy2Jg==--
+--=-YF7vo1WRrqsSMYsd5pLuVg==--
 
---=-52OZt7ZEPmUVec1+KS54hA==
+--=-aZkqt6BdFoepFtrOP6GTdQ==
 Content-Type: application/pdf; name=BCTC-625987.pdf
 Content-Disposition: attachment; filename=BCTC-625987.pdf
 Content-Transfer-Encoding: base64
-Content-Id: <7d88b575-d90d-4812-a8e0-08923539b4ec>
+Content-Id: <2a5b859b-2135-4412-8a6b-7d9972b48826>
 
 JVBERi0xLjQgCjEgMCBvYmoKPDwKL1BhZ2VzIDIgMCBSCi9UeXBlIC9DYXRhbG9nCj4+CmVu
 ZG9iagoyIDAgb2JqCjw8Ci9UeXBlIC9QYWdlcwovS2lkcyBbIDMgMCBSIF0KL0NvdW50IDEK
@@ -2058,4 +2058,4 @@ MDg5NjQ1NTNhMGNhNTkyOTJhMDMzZWY2YjZhYjlkZmI4ZGIyY2Y4NzBlZGUyNzQwPiA8YjM0
 YzBiNDE3NzQxZDEyMTA4OTY0NTUzYTBjYTU5MjkyYTAzM2VmNmI2YWI5ZGZiOGRiMmNmODcw
 ZWRlMjc0MD5dCj4+CnN0YXJ0eHJlZgoxMDA1OTcKJSVFT0YK
 
---=-52OZt7ZEPmUVec1+KS54hA==--
+--=-aZkqt6BdFoepFtrOP6GTdQ==--

@@ -98,22 +98,22 @@ HtmlBody: <html xmlns:o="urn:schemas-microsoft-com:office:office"
 	{page:WordSection1;}--></style></head><body lang="RO" link="blue"
  vlink="#954F72" style="word-wrap:break-word"><div class="WordSection1"><p
  class="MsoNormal">Factura 1-mai jos</p></div></body></html>
-Content-Type: multipart/mixed; boundary="=-X70wJZ1bbZNfxKvUOjPf9A=="
+Content-Type: multipart/mixed; boundary="=-kQyFi1jaTJeyfmPPQWS6fg=="
 
---=-X70wJZ1bbZNfxKvUOjPf9A==
-Content-Type: multipart/alternative; boundary="=-Ckh8ZNhOdp8FL6YPlwGtyQ=="
+--=-kQyFi1jaTJeyfmPPQWS6fg==
+Content-Type: multipart/alternative; boundary="=-mZ9cBfP6RJv0wc/hHeztxA=="
 
---=-Ckh8ZNhOdp8FL6YPlwGtyQ==
+--=-mZ9cBfP6RJv0wc/hHeztxA==
 Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: quoted-printable
-Content-Id: <2b1d52c9-c273-4f5b-8821-18f8dfb3940e>
+Content-Id: <5a231698-08bc-4d76-885f-4b2c05d74dfe>
 
 Factura 1-mai jos
 
---=-Ckh8ZNhOdp8FL6YPlwGtyQ==
+--=-mZ9cBfP6RJv0wc/hHeztxA==
 Content-Type: text/html; charset=us-ascii
 Content-Transfer-Encoding: quoted-printable
-Content-Id: <b494993c-8f40-4af3-90a0-385a5e2e7c96>
+Content-Id: <12c9345b-ad96-47d2-b280-c4552af96612>
 
 <html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"u=
 rn:schemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.micros=
@@ -154,13 +154,13 @@ reak-word">
 </body>
 </html>
 
---=-Ckh8ZNhOdp8FL6YPlwGtyQ==--
+--=-mZ9cBfP6RJv0wc/hHeztxA==--
 
---=-X70wJZ1bbZNfxKvUOjPf9A==
+--=-kQyFi1jaTJeyfmPPQWS6fg==
 Content-Type: application/pdf; name="Invoice 1.pdf"
 Content-Disposition: attachment; filename="Invoice 1.pdf"
 Content-Transfer-Encoding: base64
-Content-Id: <862f54ad-16eb-4776-9c41-27efec88a626>
+Content-Id: <aa9b6f1e-3305-4437-a11e-4dcbcd67875f>
 
 JVBERi0xLjcNCiW1tbW1DQoxIDAgb2JqDQo8PC9UeXBlL0NhdGFsb2cvUGFnZXMgMiAwIFIv
 TGFuZyhlbi1aQSkgL1N0cnVjdFRyZWVSb290IDE2IDAgUi9NYXJrSW5mbzw8L01hcmtlZCB0
@@ -710,4 +710,4 @@ ZSAyNzEvUm9vdCAxIDAgUi9JbmZvIDMgMCBSL0lEWzxBODMzQ0Y2MjExNTI0RjRDQTUwQTFD
 Mjc2OEMxRUNDQz48QTgzM0NGNjIxMTUyNEY0Q0E1MEExQzI3NjhDMUVDQ0M+XSAvUHJldiAy
 Mzc3Mi9YUmVmU3RtIDIzMDM1Pj4NCnN0YXJ0eHJlZg0KMjkzNTANCiUlRU9G
 
---=-X70wJZ1bbZNfxKvUOjPf9A==--
+--=-kQyFi1jaTJeyfmPPQWS6fg==--

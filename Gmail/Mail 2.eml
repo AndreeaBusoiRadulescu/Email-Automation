@@ -68,28 +68,28 @@ Folder: Invoices
 Sender: Andreea Busoi <andreeaavatar@gmail.com>
 PlainText: Factura 2
 HtmlBody: <div =?utf-8?q?dir=3D=22ltr=22=3EFactura=C2=A02=C2=A0=3C=2Fdiv=3E?=
-Content-Type: multipart/mixed; boundary="=-uSiaKouEFLGbbBpR8vBQmQ=="
+Content-Type: multipart/mixed; boundary="=-J26evOEOK8fEy0RsSUuMMQ=="
 
---=-uSiaKouEFLGbbBpR8vBQmQ==
-Content-Type: multipart/alternative; boundary="=-tg+Ytb+dzss214elkgsgjw=="
+--=-J26evOEOK8fEy0RsSUuMMQ==
+Content-Type: multipart/alternative; boundary="=-rmFFxa3TKmngR0pMnIUxlQ=="
 
---=-tg+Ytb+dzss214elkgsgjw==
+--=-rmFFxa3TKmngR0pMnIUxlQ==
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: base64
-Content-Id: <10205b7c-ea80-4270-a478-e1d751a89d8e>
+Content-Id: <a0b64b98-7ca2-4bc5-bd44-325db1dc44ba>
 
 RmFjdHVyYSAyDQo=
 
---=-tg+Ytb+dzss214elkgsgjw==
+--=-rmFFxa3TKmngR0pMnIUxlQ==
 Content-Type: text/html; charset=UTF-8
 Content-Transfer-Encoding: quoted-printable
-Content-Id: <a3555bb1-91f0-4a0a-9cea-2fa6d155b53f>
+Content-Id: <3a9a96e0-b38b-417e-8d2f-d92085867a07>
 
 <div dir=3D"ltr">Factura=C2=A02=C2=A0</div>
 
---=-tg+Ytb+dzss214elkgsgjw==--
+--=-rmFFxa3TKmngR0pMnIUxlQ==--
 
---=-uSiaKouEFLGbbBpR8vBQmQ==
+--=-J26evOEOK8fEy0RsSUuMMQ==
 Content-Type: application/pdf; name=BCTC-783523.pdf
 Content-Disposition: attachment; filename=BCTC-783523.pdf
 Content-Transfer-Encoding: base64
@@ -1971,4 +1971,4 @@ MzBmZWFiYTA3NDMwMzhkZWZlYTY4MjE0YjQ3ZWFmZjEzZGQyNGUzNDI3MThjY2RlN2YxM2Rm
 YzM1NjAzNz4gPDZkMjMwZmVhYmEwNzQzMDM4ZGVmZWE2ODIxNGI0N2VhZmYxM2RkMjRlMzQy
 NzE4Y2NkZTdmMTNkZmMzNTYwMzc+XQo+PgpzdGFydHhyZWYKMTAwNjY0CiUlRU9GCg==
 
---=-uSiaKouEFLGbbBpR8vBQmQ==--
+--=-J26evOEOK8fEy0RsSUuMMQ==--

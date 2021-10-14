@@ -5019,9 +5019,9 @@
     "restore": {
       "projectUniqueName": "Robot7_EmailAutomation",
       "projectName": "Robot7_EmailAutomation",
-      "projectPath": "D:\\ProiecteUiPath\\Robot7_EmailAutomation\\.local",
+      "projectPath": "D:\\ProiecteUiPath\\Email-Automation\\.local",
       "packagesPath": "C:\\Users\\Busoi Andreea\\.nuget\\packages\\",
-      "outputPath": "D:\\ProiecteUiPath\\Robot7_EmailAutomation\\.local"
+      "outputPath": "D:\\ProiecteUiPath\\Email-Automation\\.local"
     },
     "frameworks": {
       "net461": {

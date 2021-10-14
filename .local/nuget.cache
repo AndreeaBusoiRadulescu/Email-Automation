@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Ajo/F0RWGkRIMXMB+ntBXe1PWR8C8SmQdB0csfD3vRo2JLh845IHIJtagnFZdl4e8fEh2GgB1uTxHifhWYQzw==",
+  "dgSpecHash": "YyqctpXjKciiVfYpWRD1QGpQKF8k9qVILsPIohh46QGgrBbeByqjSpW/RsTI5n+eAs409WTDoQhiulK4oeFyjA==",
   "success": true,
-  "projectFilePath": "D:\\ProiecteUiPath\\Robot7_EmailAutomation\\.local\\",
+  "projectFilePath": "D:\\ProiecteUiPath\\Email-Automation\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Busoi Andreea\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Busoi Andreea\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
